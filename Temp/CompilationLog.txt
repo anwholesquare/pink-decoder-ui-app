@@ -1,0 +1,18 @@
+# Starting compiling UnityEngine.TestRunner.dll
+D:\unity\2020.3.26f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-847875a00741f7343a3fe1503122d050
+# Starting compiling UnityEngine.UI.dll
+D:\unity\2020.3.26f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-914bd25d06fe1774f97e8f5d80bbf1e4
+# Starting compiling Unity.Timeline.dll
+D:\unity\2020.3.26f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-f67f2bc5c64301a4d96480ba861ae897
+# Starting compiling Unity.TextMeshPro.dll
+D:\unity\2020.3.26f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-24afe0c35188c8446aecd9a983072540
+# Starting compiling LeanCommon.dll
+D:\unity\2020.3.26f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-9f1cbd1329d27414bbb2df08d8429312
+# Starting compiling Nobi.UiRoundedCorners.dll
+D:\unity\2020.3.26f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ff2a63109666aa249b441820568fe135
+# Starting compiling LeanTransition.dll
+D:\unity\2020.3.26f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-7230d6bc199dfc94aae766f5e302aa2e
+# Starting compiling LeanGUI.dll
+D:\unity\2020.3.26f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e46225cd9c2e9e24191f1df408870b64
+# Starting compiling Assembly-CSharp.dll
+D:\unity\2020.3.26f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ca22a85944292b84c9572669bac2a2b6
